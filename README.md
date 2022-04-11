@@ -4,6 +4,7 @@ Projeto desenvolvido por mim, através do curso Ignite da Rocketseat <a href="ht
 
 O projeto pode ser acessado clikando <a href="https://to-do-by-christian-angeli.vercel.app/">aqui</a>.
 
+<img src="https://github.com/christian-angeli/dtmoney-controle-financeiro/blob/master/Screenshot_1.png"/>
 
 ## 💻 Técnologias
 
